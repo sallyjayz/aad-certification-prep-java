@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TwoActivitiesLifecycleStateChallenge</string>
+    <string name="add_item">Add Item</string>
+    <string name="cheese">Cheese</string>
+    <string name="apples">Apples</string>
+    <string name="rice">Rice</string>
+    <string name="beans">Beans</string>
+    <string name="spaghetti">Spaghetti</string>
+    <string name="watermelon">Watermelon</string>
+    <string name="fish">Fish</string>
+    <string name="samosa">Samosa</string>
+    <string name="cake">Cake</string>
+    <string name="cookies">Cookies</string>
+</resources>
